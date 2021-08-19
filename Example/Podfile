@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LVTestKit_Example' do
+  pod 'LVTestKit', :path => '../'
+
+  target 'LVTestKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
