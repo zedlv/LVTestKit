@@ -1,0 +1,22 @@
+{
+  "name": "LVTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of LVTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zed_lv@163.com/LVTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zed_lv@163.com": "lvyz01@mingyuanyun.com"
+  },
+  "source": {
+    "git": "https://github.com/zed_lv@163.com/LVTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LVTestKit/Classes/**/*"
+}

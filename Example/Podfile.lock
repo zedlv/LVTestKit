@@ -1,0 +1,16 @@
+PODS:
+  - LVTestKit (0.1.0)
+
+DEPENDENCIES:
+  - LVTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  LVTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LVTestKit: ee351e7aa1d7e5ea9e1b5bb10740356de0bce1c7
+
+PODFILE CHECKSUM: a4b3adf06742832e3810812e9e8797808303a54a
+
+COCOAPODS: 1.10.1

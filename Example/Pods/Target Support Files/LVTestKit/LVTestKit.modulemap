@@ -1,0 +1,6 @@
+framework module LVTestKit {
+  umbrella header "LVTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
